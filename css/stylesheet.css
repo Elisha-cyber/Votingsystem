@@ -1,0 +1,67 @@
+* {
+    text-decoration: none;
+    box-sizing: border-box;  
+}
+ body{
+
+    background-color:rgb(164, 218, 164);
+ }
+#header-section{
+    padding: 10px;
+    text-align: center;
+    font-family: cursive;
+}
+ 
+ #body-section{
+    text-align: center;
+}
+
+#body-section input{
+    padding: 8px;
+    border-radius: 5px;
+
+}
+
+#body-section #addr{
+    padding: 8px;
+    border-radius: 5px;
+    width: 28%;
+
+}
+
+#body-section #img{
+    padding: 8px;
+    border: 2px solid;
+    border-radius: 5px;
+    width: 30%;
+}
+
+#body-section #role{
+    padding: 8px;
+    border: 2px solid;
+    border-radius: 5px;
+    width: 30%;
+}
+
+#select{
+    padding: 8px;
+    border-radius: 5px;
+    width: 14.5%;
+}
+
+#select2{
+    padding: 8px;
+    border-radius: 5px;
+    width: 21.5%;
+}
+
+#body-section button{
+    padding: 8px;
+    border-radius: 5px;
+    color: aliceblue;
+    background-color: blue;
+}
+
+#body-section a{
+    font-family: cursive;
+}
